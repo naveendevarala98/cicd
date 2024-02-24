@@ -14,7 +14,7 @@
 	<name>cicdpipeline</name>
 	<description>cicd pipeline setup</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
